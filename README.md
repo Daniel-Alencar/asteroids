@@ -1,8 +1,8 @@
 # asteroids
 Uma cópia simplificada do famosos jogo Asteroids em C usando opengl.
 
-![Texto alternativo](assets/jogo0.png)
-![Texto alternativo](assets/jogo1.png)
+![image1](assets/jogo0.png)
+![image2](assets/jogo1.png)
 
 ## Dependências
 Para o jogo funcionar corretamente, ele depende que um ambiente C/C++ esteja configurado em seu computador, além das dependências do opengl em C/C++.
